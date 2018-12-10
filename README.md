@@ -14,7 +14,7 @@
 
 ⚠ Work in progress, this has not been thoroughly tested. ⚠
 
-Main repo: https://huggingface.co/hmtl/
+Main repo: https://github.com/huggingface/hmtl
 Demo: https://huggingface.co/hmtl/
 
 This code sample demonstrates how to use `rasa_nlu`'s `Component` mechanism to integrate the tasks results from `HMTL`: 
